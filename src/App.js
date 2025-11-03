@@ -13,40 +13,11 @@ import AppFooter from './components/AppFooter';
 
 function App() {
   return (
-    /*<div>
-      <Login></Login>
-    </div>
     <div>
       <Router>
-        <Routes>
-          <Route path="/" element={<NavBar />}></Route>
-        </Routes>
+        <AppHeader />
       </Router>
     </div>
-    <UserAvatar></UserAvatar>
-
-    <div>
-      <Router>
-        <Routes>
-          <Route path="/" element={<SideBar />}></Route>
-        </Routes>
-      </Router>
-    </div>
-
-    <div>
-      <Router>
-        <Routes>
-          <Route path="/" element={<AccordionMenu />}></Route>
-        </Routes>
-      </Router>
-    </div>*/
-
-    
-      
-        /*...*/
-        <div>
-          <AppFooter></AppFooter>
-        </div>
   );
 }
 

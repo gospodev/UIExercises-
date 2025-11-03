@@ -1,0 +1,22 @@
+body {
+margin: 0;
+padding: 0;
+background: linear-gradient(to right, #2c3e50, #bdc3c7);
+}
+.header {
+background-color: #060b26;
+height: 80px;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+color: aliceblue;
+}
+.nav-bar-menu-div {
+position: absolute;
+right: 20px; 
+}
+.logo-header {
+position:relative;
+left: 50%;
+transform: translateX(-50%); 
+}
